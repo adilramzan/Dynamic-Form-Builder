@@ -34,10 +34,7 @@ function App() {
             name="Welcome" 
             component={WelcomeScreen} 
             options={{ headerShown: false }} 
-          />
-
-
-        
+          />  
          
 
         </Stack.Navigator>
