@@ -1,4 +1,4 @@
-//import './services/i18n'; // Import the i18n setup
+
 import React, { useState, useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
